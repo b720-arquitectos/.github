@@ -4,7 +4,7 @@
 
 ---
 
-### 🧩 Tecnología e innovación
+### 👨‍💻 Tecnología e innovación
 
 Desde el departamento de IT e innovación promovemos soluciones digitales que impulsan:
 - Desarrollo de herramientas internas
