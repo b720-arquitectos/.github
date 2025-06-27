@@ -15,5 +15,3 @@ Desde el departamento de IT e innovación promovemos soluciones digitales que im
 ### 🌐 Más sobre nosotros
 - Página web: [www.b720.com](https://www.b720.com)
 - LinkedIn: [linkedin.com/company/b720](https://www.linkedin.com/company/b720)
-
----
